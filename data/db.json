@@ -1,0 +1,22 @@
+{
+   "blogs": [
+    {
+        "title": "Chip off the old block",
+        "content": "The idea behind this expression that something bears a resemblance to the bigger piece from which it was taken – dates all the way back to 270 BC. The analogy of a piece of wood or stone resembling the bigger piece from which it was cut first appeared in Theocritus’ book Idylls.",
+        "author": "Emmanuel",
+        "id": 1
+    },
+    {
+        "title": "Learning Programming",
+        "content": "eryone that knows me off Nairaland knows I am a huge pessimist but when it comes to tech or the tech industry in general I am the greatest optimist you can find. I believe tech has the potential to change people's lives and it has done so. It is also the only industry that thrives on merit. No one cares what school you went to, what grades you had. What people care about is what you can do. You can't say the same about engineering or law or medicine",
+        "author": "Tensa",
+        "id": 2
+    },
+    {
+        "title": "Is Pyhton a good Language for Backend",
+        "content": "Python is very good for backend and stop listening to suggestions that python is only good for Ai/ml.... What makes Python a first choice for AI, data science...is simply because of the great libraries and frameworks Python has..Same can also be said for Web Dev with the Django and Flask framework which are really good...and there's a new framework now, which is like express(node.js) called FastApi...just do a Google search on FARM stack, it's like MERN stack but with Python/FastApi replacing node.js/express",
+        "author": "Blaqface",
+        "id": 3
+    }
+]
+}
